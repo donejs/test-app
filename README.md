@@ -1,5 +1,7 @@
 # test-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/test-app.svg)](https://greenkeeper.io/)
+
 Welcome to the test-app DoneJS application!
 
 ## Getting started
